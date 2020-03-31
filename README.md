@@ -1,0 +1,3 @@
+# BilibiliPictureCrawler
+Bilibili相簿cos热门图片爬取
+自动抓取热门页数进行下载
